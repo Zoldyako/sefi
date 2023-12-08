@@ -77,13 +77,20 @@ a { text-decoration: none; }
     gap: 20px;
 }
 
+.a {
+    width: 50%;
+}
+
 .estagio {
+    background-color: rgb(236, 236, 236);
     text-align: center;
-    margin: 32px 0;
+    margin: 48px 0;
+    padding: 8px 0;
 }
 
 .estagio p {
-    background-color: rgb(236, 236, 236);
+    width: 1000px;
+    margin: auto;
     padding: 16px 20%;
 }
 
