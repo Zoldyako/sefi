@@ -110,6 +110,7 @@ a { text-decoration: none; }
 .eq {
     background-color: rgb(216, 216, 216);
     border-radius: 8px;
+    margin: 16px 0;
     padding: 1px 16px;
 }
 
